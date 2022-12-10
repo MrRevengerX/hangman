@@ -1,0 +1,29 @@
+Name : Ravindu
+
+Game #1
+Word guessed : FISH
+Turns provided : 4
+Turns used : 0
+Win/lost status : WIN
+
+Game #2
+Word guessed : APPLE
+Turns provided : 5
+Turns used : 5
+Win/lost status : LOSS
+
+Game #3
+Word guessed : APPLE
+Turns provided : 5
+Turns used : 0
+Win/lost status : WIN
+
+Game #4
+Word guessed : KITCHEN
+Turns provided : 7
+Turns used : 1
+Win/lost status : WIN
+
+Total number of games played : 4
+Total wins : 3
+Total loses :1
